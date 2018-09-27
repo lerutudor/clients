@@ -1,0 +1,17 @@
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.Tests.deps.json
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.Tests.runtimeconfig.json
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.Tests.runtimeconfig.dev.json
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.Tests.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.Tests.pdb
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\bin\Debug\netcoreapp2.1\Customers.Domain.pdb
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.csprojAssemblyReference.cache
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.csproj.CoreCompileInputs.cache
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.AssemblyInfoInputs.cache
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.AssemblyInfo.cs
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.csproj.CopyComplete
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.dll
+E:\DELL PROJECT\Customers\Customers.Domain.Tests\obj\Debug\netcoreapp2.1\Customers.Domain.Tests.pdb

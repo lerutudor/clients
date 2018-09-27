@@ -1,0 +1,9 @@
+E:\DELL PROJECT\Customers\Customers.Domain\bin\Debug\netcoreapp2.1\Customers.Domain.deps.json
+E:\DELL PROJECT\Customers\Customers.Domain\bin\Debug\netcoreapp2.1\Customers.Domain.dll
+E:\DELL PROJECT\Customers\Customers.Domain\bin\Debug\netcoreapp2.1\Customers.Domain.pdb
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.csprojAssemblyReference.cache
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.csproj.CoreCompileInputs.cache
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.AssemblyInfoInputs.cache
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.AssemblyInfo.cs
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.dll
+E:\DELL PROJECT\Customers\Customers.Domain\obj\Debug\netcoreapp2.1\Customers.Domain.pdb

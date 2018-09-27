@@ -1,0 +1,14 @@
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Customers.Infrastructure.deps.json
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Customers.Infrastructure.dll
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Customers.Infrastructure.pdb
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Customers.Domain.dll
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Customers.Domain.pdb
+E:\DELL PROJECT\Customers\Customers.Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.csprojAssemblyReference.cache
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.AssemblyInfoInputs.cache
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.AssemblyInfo.cs
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.csproj.CopyComplete
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.dll
+E:\DELL PROJECT\Customers\Customers.Infrastructure\obj\Debug\netcoreapp2.1\Customers.Infrastructure.pdb
