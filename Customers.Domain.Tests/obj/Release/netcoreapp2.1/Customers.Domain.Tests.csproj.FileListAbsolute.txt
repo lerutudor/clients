@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.Tests.deps.json
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.Tests.runtimeconfig.json
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.Tests.runtimeconfig.dev.json
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.Tests.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.Tests.pdb
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\bin\Release\netcoreapp2.1\Customers.Domain.pdb
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.AssemblyInfo.cs
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.csproj.CopyComplete
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.dll
+C:\Users\User\source\repos\clients\Customers.Domain.Tests\obj\Release\netcoreapp2.1\Customers.Domain.Tests.pdb

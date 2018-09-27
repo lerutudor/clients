@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\clients\Customers.Domain\bin\Release\netcoreapp2.1\Customers.Domain.deps.json
+C:\Users\User\source\repos\clients\Customers.Domain\bin\Release\netcoreapp2.1\Customers.Domain.dll
+C:\Users\User\source\repos\clients\Customers.Domain\bin\Release\netcoreapp2.1\Customers.Domain.pdb
+C:\Users\User\source\repos\clients\Customers.Domain\obj\Release\netcoreapp2.1\Customers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\clients\Customers.Domain\obj\Release\netcoreapp2.1\Customers.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\clients\Customers.Domain\obj\Release\netcoreapp2.1\Customers.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\clients\Customers.Domain\obj\Release\netcoreapp2.1\Customers.Domain.dll
+C:\Users\User\source\repos\clients\Customers.Domain\obj\Release\netcoreapp2.1\Customers.Domain.pdb
