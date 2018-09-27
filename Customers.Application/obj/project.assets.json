@@ -11541,11 +11541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DELL PROJECT\\Customers\\Customers.Application\\Customers.Application.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\clients\\Customers.Application\\Customers.Application.csproj",
       "projectName": "Customers.Application",
-      "projectPath": "E:\\DELL PROJECT\\Customers\\Customers.Application\\Customers.Application.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Application\\Customers.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\DELL PROJECT\\Customers\\Customers.Application\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11564,11 +11564,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\DELL PROJECT\\Customers\\Customers.Domain\\Customers.Domain.csproj": {
-              "projectPath": "E:\\DELL PROJECT\\Customers\\Customers.Domain\\Customers.Domain.csproj"
+            "C:\\Users\\User\\source\\repos\\clients\\Customers.Domain\\Customers.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Domain\\Customers.Domain.csproj"
             },
-            "E:\\DELL PROJECT\\Customers\\Customers.Infrastructure\\Customers.Infrastructure.csproj": {
-              "projectPath": "E:\\DELL PROJECT\\Customers\\Customers.Infrastructure\\Customers.Infrastructure.csproj"
+            "C:\\Users\\User\\source\\repos\\clients\\Customers.Infrastructure\\Customers.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Infrastructure\\Customers.Infrastructure.csproj"
             }
           }
         }

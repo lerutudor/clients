@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DELL PROJECT\\Customers\\Customers.Domain\\Customers.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\clients\\Customers.Domain\\Customers.Domain.csproj",
       "projectName": "Customers.Domain",
-      "projectPath": "E:\\DELL PROJECT\\Customers\\Customers.Domain\\Customers.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Domain\\Customers.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\DELL PROJECT\\Customers\\Customers.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\clients\\Customers.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

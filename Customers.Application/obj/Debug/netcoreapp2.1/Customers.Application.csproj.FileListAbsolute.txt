@@ -17,3 +17,22 @@ E:\DELL PROJECT\Customers\Customers.Application\obj\Debug\netcoreapp2.1\Customer
 E:\DELL PROJECT\Customers\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.csproj.CopyComplete
 E:\DELL PROJECT\Customers\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.dll
 E:\DELL PROJECT\Customers\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.pdb
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Application.deps.json
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Application.runtimeconfig.json
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Application.runtimeconfig.dev.json
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Application.dll
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Application.pdb
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Domain.dll
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Infrastructure.dll
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Domain.pdb
+C:\Users\User\source\repos\clients\Customers.Application\bin\Debug\netcoreapp2.1\Customers.Infrastructure.pdb
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.csproj.CopyComplete
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.dll
+C:\Users\User\source\repos\clients\Customers.Application\obj\Debug\netcoreapp2.1\Customers.Application.pdb
